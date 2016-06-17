@@ -1,3 +1,3 @@
 # Image-Processing-Software
-A simple software to filter images.
+A simple JAVA software to filter images.
 With simple filters
